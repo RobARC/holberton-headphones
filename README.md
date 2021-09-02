@@ -3,7 +3,7 @@
 ## Concepts
 For this project, students are expected to look at this concept:
 
-<li>[Implement a design](https://intranet.hbtn.io/concepts/220)</li>
+##### <li>[Implement a design](https://intranet.hbtn.io/concepts/220)</li>
 
 <p>In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.</p>
 
