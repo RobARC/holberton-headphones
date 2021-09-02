@@ -18,6 +18,3 @@ Create an account in [Figma](https://intranet.hbtn.io/rltoken/eumOUW-eMS4X9ZDZg9
 If you can’t access to it, please find here the [Figma file](https://intranet.hbtn.io/rltoken/NxsDNicWs5KSlsR94kt52A)
 
 <img src="./01_headphones_desktop@2x.png"/>
-<img src="./01_headphones_mobile@2x.png"/>
-<img src="./01_headphones_tablet@2x"/>
-
